@@ -1,0 +1,11 @@
+#px{
+    border: none;
+    border-style: solid;
+    color: aliceblue;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.416);
+    border: none;
+    border-radius: 25px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
